@@ -1,0 +1,104 @@
+﻿teacher_id,post_status,subject,Retired,replacement_appointed_promptly,periods_teach_per_day,workload_affects_classroom_quality,administrative_support,teachers_arrive_on_time,classes_left_unattended
+1,Filled,Physical Education,0,Yes,8,No,Always,Mostly,Often
+2,Filled,Mathematics,0,Yes,8,Yes,Always,Always,Sometimes
+3,Filled,Social Science,0,Yes,8,Partially,Always,Mostly,Never
+4,Filled,Computer Science,0,Yes,8,No,Always,Always,Never
+5,Filled,Social Science,0,Yes,8,Partially,Always,Always,Never
+6,Filled,Science,0,Yes,8,Partially,Always,Mostly,Never
+7,Filled,English,0,Yes,8,No,Always,Always,Never
+8,Filled,Mathematics,0,Yes,8,No,Always,Mostly,Never
+9,Filled,Mathematics,0,Yes,8,Yes,Sometimes,Mostly,Rarely
+10,Filled,Social Science,0,Yes,8,Partially,Always,Always,Never
+11,Filled,Social Science,0,Yes,8,No,Sometimes,Always,Never
+12,Filled,English,0,Yes,8,Yes,Always,Always,Never
+13,Filled,Hindi,0,Yes,8,Partially,Always,Always,Rarely
+14,Filled,Social Science,0,Yes,8,No,Always,Mostly,Never
+15,Filled,Physical Education,0,Yes,8,Partially,Always,Always,Sometimes
+16,Filled,English,0,Yes,8,No,Always,Always,Never
+17,Filled,Hindi,1,Yes,8,No,Sometimes,Mostly,Never
+18,Filled,Hindi,0,Yes,8,No,Always,Always,Never
+19,Filled,Physical Education,0,Yes,8,No,Always,Always,Never
+20,Filled,Science,0,Yes,8,Partially,Always,Always,Never
+21,Filled,Hindi,0,Yes,8,Partially,Always,Always,Never
+22,Filled,Physical Education,0,Yes,8,Partially,Always,Sometimes,Never
+23,Filled,Hindi,0,Yes,8,No,Always,Mostly,Rarely
+24,Filled,Science,0,Yes,8,No,Never,Mostly,Rarely
+25,Filled,Art,0,Yes,8,No,Always,Mostly,Never
+26,Filled,Hindi,0,Yes,8,Partially,Sometimes,Always,Never
+27,Filled,Art,0,Yes,8,No,Always,Mostly,Sometimes
+28,Filled,Hindi,0,Yes,8,No,Always,Mostly,Rarely
+29,Filled,Mathematics,0,Yes,8,Partially,Always,Mostly,Rarely
+30,Filled,Science,0,Yes,8,Partially,Always,Sometimes,Never
+31,Filled,Mathematics,0,Yes,8,No,Sometimes,Always,Never
+32,Filled,Physical Education,0,Yes,8,No,Always,Always,Rarely
+33,Filled,Science,0,Yes,8,Partially,Always,Always,Never
+34,Filled,English,0,Yes,8,No,Always,Always,Rarely
+35,Filled,Hindi,0,Yes,8,No,Always,Always,Rarely
+36,Filled,Science,0,Yes,8,No,Always,Always,Never
+37,Filled,Mathematics,0,Yes,8,No,Sometimes,Mostly,Never
+38,Filled,English,0,Yes,8,No,Always,Mostly,Never
+39,Filled,Mathematics,0,Yes,8,No,Always,Always,Rarely
+40,Filled,Physical Education,0,Yes,8,No,Always,Always,Rarely
+41,Filled,Dance,0,Yes,8,No,Always,Always,Rarely
+42,Filled,Music,0,Yes,8,No,Always,Always,Never
+43,Filled,Art,0,Yes,8,Partially,Sometimes,Always,Sometimes
+44,Filled,Computer Science,0,Yes,8,Partially,Sometimes,Always,Never
+45,Filled,Physical Education,0,Yes,8,Yes,Always,Mostly,Sometimes
+46,Filled,Computer Science,0,Yes,8,Partially,Always,Mostly,Never
+47,Filled,Dance,0,Yes,8,No,Always,Mostly,Never
+48,Filled,Computer Science,0,Yes,8,No,Sometimes,Mostly,Sometimes
+49,Filled,Mathematics,0,Yes,8,No,Always,Always,Never
+50,Filled,Computer Science,0,Yes,8,No,Always,Mostly,Never
+51,Filled,Music,0,Yes,8,No,Always,Sometimes,Never
+52,Filled,English,0,Yes,8,No,Always,Always,Rarely
+53,Filled,Dance,0,Yes,8,No,Always,Mostly,Rarely
+54,Filled,English,0,Yes,8,No,Always,Mostly,Never
+55,Filled,Physical Education,0,Yes,8,Yes,Always,Mostly,Rarely
+56,Filled,Hindi,0,Yes,8,No,Always,Mostly,Sometimes
+57,Filled,Physical Education,0,Yes,8,Partially,Always,Always,Never
+58,Filled,English,0,Yes,8,Partially,Sometimes,Always,Sometimes
+59,Filled,Computer Science,0,Yes,8,No,Always,Mostly,Never
+60,Filled,English,0,Yes,8,Partially,Sometimes,Always,Never
+61,Filled,Social Science,0,Yes,8,No,Always,Always,Never
+62,Filled,Mathematics,0,Yes,8,Partially,Always,Always,Sometimes
+63,Filled,English,0,Yes,8,No,Always,Always,Never
+64,Filled,Computer Science,0,Yes,8,No,Always,Always,Rarely
+65,Filled,Physical Education,0,Yes,8,Partially,Sometimes,Always,Never
+66,Filled,Hindi,0,Yes,8,Yes,Always,Always,Never
+67,Filled,Dance,0,Yes,8,No,Always,Always,Never
+68,Filled,Social Science,0,Yes,8,No,Always,Mostly,Never
+69,Filled,Computer Science,0,Yes,8,No,Always,Sometimes,Rarely
+70,Filled,Science,0,Yes,8,No,Always,Always,Never
+71,Filled,English,0,Yes,8,No,Sometimes,Sometimes,Never
+72,Filled,Hindi,0,Yes,8,No,Always,Always,Never
+73,Filled,Social Science,0,Yes,8,No,Always,Always,Never
+74,Filled,Science,0,Yes,8,No,Sometimes,Always,Never
+75,Filled,English,0,Yes,8,No,Always,Always,Never
+76,Filled,Science,0,Yes,8,No,Sometimes,Always,Never
+77,Filled,Hindi,0,Yes,8,No,Always,Always,Never
+78,Filled,Music,0,Yes,8,No,Always,Always,Never
+79,Filled,Physical Education,0,Yes,8,No,Always,Sometimes,Never
+80,Filled,Physical Education,0,Yes,8,No,Always,Always,Never
+81,Filled,Physical Education,0,Yes,8,No,Sometimes,Always,Rarely
+82,Filled,Physical Education,0,Yes,8,No,Always,Always,Rarely
+83,Filled,Mathematics,0,Yes,8,No,Sometimes,Always,Rarely
+84,Filled,English,0,Yes,8,No,Always,Sometimes,Never
+85,Filled,Computer Science,0,Yes,8,No,Always,Mostly,Never
+86,Filled,Music,0,Yes,8,Partially,Always,Sometimes,Rarely
+87,Filled,Music,0,Yes,8,No,Always,Always,Never
+88,Filled,Science,0,Yes,8,No,Always,Always,Never
+89,Filled,Hindi,0,Yes,8,No,Always,Mostly,Rarely
+90,Filled,Science,0,Yes,8,No,Always,Mostly,Never
+91,Filled,Art,0,Yes,8,No,Sometimes,Sometimes,Never
+92,Filled,Music,0,Yes,8,No,Always,Mostly,Rarely
+93,Vacant,Hindi,1,,,,,,
+94,Vacant,Physical Education,1,,,,,,
+95,Vacant,Mathematics,1,,,,,,
+96,Vacant,English,1,,,,,,
+97,Vacant,Computer Science,1,,,,,,
+98,Vacant,Physics,1,,,,,,
+99,Vacant,Chemistry,1,,,,,,
+100,Vacant,Sanskrit,1,,,,,,
+101,Vacant,Music,1,,,,,,
+102,Vacant,Biology,1,,,,,,
+103,Vacant,Art,1,,,,,,
