@@ -2,7 +2,7 @@
 
 ## 📊 Project Overview
 
-This project focuses on analyzing teacher workforce and workload data from a Delhi Government School survey.
+This project focuses on analyzing teacher workforce and workload data from a Synthetic Delhi Government School survey.
 
 The analysis examines teacher availability, vacancies, workload, administrative support, teacher punctuality, unattended classes, and subject-wise staffing.
 
