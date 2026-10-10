@@ -84,6 +84,6 @@ Delhi-Government-School-Data-Analysis/
 │   └── Delhi_Government_School_Analysis.pbix
 │
 ├── screenshots/
-│   └── dashboard.png
+│   └── teacher_workforce_dashboard.png
 │
 └── README.md
