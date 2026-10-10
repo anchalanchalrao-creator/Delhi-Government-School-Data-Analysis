@@ -52,16 +52,22 @@ SQL queries are used to analyze:
 10. Subject-wise staffing and vacancies
 
 ## 📈 Power BI Dashboard
+An interactive Power BI dashboard was developed to analyze teacher workforce and workload patterns.
 
-The Power BI dashboard will present key findings through:
+### Dashboard Preview
 
-- KPI cards
-- Filled vs. vacant posts
-- Subject-wise vacancy analysis
-- Teaching workload analysis
+![Delhi Government School Teacher Workforce Dashboard](teacher_workforce_dashboard.png)
+
+### Key Dashboard Components
+- KPI cards for total posts, filled posts, vacancies, and retirements
+- Subject-wise teacher count
+- Daily teaching periods
+- Workload impact on classroom quality
 - Administrative support
 - Teacher punctuality
 - Unattended classes
+
+**Note:** The dataset is synthetic and intended for educational and portfolio purposes.
 
 ## 📁 Project Structure
 
